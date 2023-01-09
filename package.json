@@ -41,5 +41,9 @@
     "@types/react-native": "^0.63.27",
     "prop-types": "^15.7.2",
     "typescript": "next"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
