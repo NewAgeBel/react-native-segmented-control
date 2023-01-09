@@ -1,6 +1,6 @@
 {
   "name": "@newagebel/react-native-segmented-control",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple and customizable React Native component to have a segmented control",
   "main": "index.js",
   "types": "index.d.ts",
